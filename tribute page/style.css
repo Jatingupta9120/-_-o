@@ -1,0 +1,40 @@
+body{
+    position: cover;
+    background-color: black;
+}
+.news{
+    background-image: url("elon5.jpg");
+}
+.new h1{
+    color: aliceblue;
+    margin-left: 650px;
+}
+.new h3{
+    color: white;
+    margin-left: 680px;
+}
+.new img{
+    margin-left: 50%;
+    margin-top: 60px;
+    width: 50px;
+    height: 50px;
+    background-color: black;
+}
+.new1 img{
+    width: 100%;
+
+}
+.new2{
+background-color: black;
+}
+.new2 h1{
+margin-top: -10px;
+margin-left: 20%;
+color: white;
+
+}
+.new2 p{
+color: white;
+margin-left: 4%;
+line-height: 40px;
+}
